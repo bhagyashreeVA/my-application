@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/drawable/bottom_nav_colors.xml" value="0.1175" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.1205" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1205" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1205" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/drawable/ic_baseline_navigation_24.xml" value="0.1175" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1205" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/layout/activity_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/layout/fragment_call.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/layout/fragment_discover.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/layout/fragment_first.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/layout/fragment_fourth.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/layout/fragment_home.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/layout/fragment_info.xml" value="0.17844202898550723" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/layout/fragment_second.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/layout/fragment_third.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/layout/onboarding_item_container.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/menu/bottom_nav_menu.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/menu/nav_menu.xml" value="0.1046875" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1205" />
+        <entry key="..\:/Users/Bhagyashree/AndroidStudioProjects/KCOverseas/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1205" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
